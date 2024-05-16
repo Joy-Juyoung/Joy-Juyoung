@@ -1,21 +1,52 @@
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/tailwindcss-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/styledcomponents-20232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
-<img src="https://img.shields.io/badge/axios-20232a.svg?style=for-the-badge&logo=axios&logoColor=5A29E4" />
 
-<img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-<img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/nextdotjs-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
-<img src="https://img.shields.io/badge/nestjs-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<div align="center">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-<img src="https://img.shields.io/badge/reactquery-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+<br>
 
-🔧 Skills: ReactJS, Redux, Axios, Tailwind CSS, JavaScript, HTML, CSS, Styled-components, MUI, Git, NextJS, TypeScript, NestJS, NodeJS, Express, MongoDB, RESTful APIs, Java.
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
 
-🌐 Portfolio: Check out my portfolio at imjoyhome.com to see some of my latest projects and experiments.
+<br>
 
-📫 Contact: Feel free to reach out to me via email or connect with me on LinkedIn. Let's collaborate and build something awesome together!
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:ljy9407@gmail.com">
+    <img
+      src="https://img.shields.io/badge/ljy9407@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
