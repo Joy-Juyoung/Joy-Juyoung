@@ -28,14 +28,6 @@ A passionate **Frontend/Full-Stack Developer** who loves creating intuitive and 
 
 ---
 
-## 🌱 **About Me**
-- 🖥️ I specialize in **React-based frontend development** and have a growing foundation in **full-stack technologies**.
-- 🌟 Currently diving into **React Native** for mobile app development.
-- 🛠️ Passionate about building **user-friendly interfaces** and solving problems with **efficient backend solutions**.
-- 🌏 Always eager to **collaborate**, **learn**, and **grow** with like-minded professionals.
-
----
-
 ## 🚀 **Connect Me**
 - ☝LinkedIn: https://www.linkedin.com/in/juyoung-lee728
 - ✌Portfolio: https://www.imjoyhome.com
