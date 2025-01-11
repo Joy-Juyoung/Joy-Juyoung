@@ -3,6 +3,7 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
@@ -24,7 +25,6 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
